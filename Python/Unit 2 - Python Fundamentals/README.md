@@ -1,10 +1,10 @@
 # Unit 2: Python Programming Fundamentals
 
-Students will begin to explore Python 3.  
+Explored Python 3.  
 Python is high level, general purpose programming language � used in application and web development, data analysis, artificial intelligence, and more.  
 This until will expose students to the fundamentals of using Python � setting the stage for more advanced data analytics topics.
 
-## Some topics this unit will cover: 
+## Topics covered: 
 + Variable assignments and data types
 + Data Structure: Lists, Dictionaries, Sets, Tuple
 + Conditional Operations: If Statements, else, elif
@@ -18,4 +18,4 @@ This until will expose students to the fundamentals of using Python � setting 
 + Create, use, and understand why functions are useful and necessary for programming.
 
 ## Projects:
-In addition to multiple assignments that provide practice on core concepts, students will be engaged in projects that develop their skills using functions and looping through datasets. 
+In addition to multiple assignments that provide practice on core concepts, engaged in projects that helped develop skills functions and looping through datasets. 
