@@ -3,9 +3,9 @@
 Gained an overview of data, databases and SQL using PostgreSQL.  
 The skills learned during this unit are applicable to any other major SQL database, such as Microsoft SQL Server, MySQL, Oracle and others.
 
-Explored what exactly data is, why it�s useful, and what types of hidden questions data can help bring to light.
+Explored what exactly data is, why it's useful, and what types of hidden questions data can help bring to light.
 
-SQL is one of the most in demand tech skills � being able to extract data from your organization allows you to manipulate, transform, visualize and answer business related questions.
+SQL is one of the most in demand tech skills - being able to extract data from your organization allows you to manipulate, transform, visualize and answer business related questions.
 
 ## Some topics this unit will cover:
 + What is data? How does it relate to business? 
@@ -15,7 +15,7 @@ SQL is one of the most in demand tech skills � being able to extract data from
 + Creating Databases and Tables
 
 ## Outcomes of this unit:
-+ A solid foundation of gathering data with SQL � from simple to complex queries.
++ A solid foundation of gathering data with SQL - from simple to complex queries.
 + How to create databases, tables, and import data into that database and perform queries on it. 
 
 ## Projects
