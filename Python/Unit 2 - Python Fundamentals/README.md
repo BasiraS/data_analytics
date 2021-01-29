@@ -10,7 +10,7 @@ Learned the fundamentals of Python, such as list, dictionary, loops, if-else sta
 + Logical Operations: AND, OR, NOT Functions
 + Built-in Functions and Custom Functions
 
-## Outcomes of this unit:
+## Outcomes:
 + A solid foundation of Python Programming fundamentals
 + Start using Python as a primary data analysis programming language
 + How to loop through a dataset and perform different tasks
