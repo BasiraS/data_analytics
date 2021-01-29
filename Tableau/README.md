@@ -5,7 +5,7 @@ in an emergency department, to tracking spend vs. budgets.
 
 In this lesson, I learned how to create visualizations that tell meaningful stories that viewers and users can clearly identify and understand to help keep track of business objectives.
 
-## Some topics this unit covered: 
+## Topics covered: 
 + Data-Ink Ratio
 + ChartJunk
 + Small Multiples
@@ -15,7 +15,7 @@ In this lesson, I learned how to create visualizations that tell meaningful stor
 + Exploratory Data Analysis in Tableau
 + Tableau parameters and calculations
 
-## Outcomes of this unit:
+## Outcomes:
 + A solid foundation of data visualization techniques - presenting data in a meaningful, impactful way to present an easy-to-understand story.
 + Creating visualizations and dashboards using tools such as tableau and communicating findings to peers.
 
