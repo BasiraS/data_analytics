@@ -1,4 +1,4 @@
-# Unit 6: Data Visualization & Commination with Tableau
+# Data Visualization & Commination with Tableau
 
 Organizations use dashboards to keep track of their day-to-day, and long-term business objectives - from keeping track of patient admissions 
 in an emergency department, to tracking spend vs. budgets.  
