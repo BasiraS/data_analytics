@@ -1,6 +1,6 @@
 # Data Analytics & Descriptive Statistics in Python
 
-Built on the topics learned in the previous units, dived deeper into data analysis and statistics using Python   
+Built on the topics learned in the previous units, dived deeper into data analysis and statistics using Python. 
 Imported data from multiples sources, including excel and csv files.  
 Explored real-world business cases using popular and relevant scientific data analysis libraries.
 
@@ -18,7 +18,7 @@ Explored real-world business cases using popular and relevant scientific data an
 + Understand hypothesis testing and how it's used in solving business use cases.
 
 ## Projects: 
-+ Performed analysis on various tasks and activities performed by a data analyst professional and summarize the analysis
++ Performed analysis on various tasks and activities performed by a data analyst professional and summarized the analysis.
 + [Assignment](https://github.com/BasiraS/data_analytics_2/tree/main/Python/Unit%203%20-%20Python%20Advanced/Assignments):
   + Used *numpy* package to answer questions dealing with top olympic countries. Created subset arrays to match criteria to answer the questions.  
   + Performed data analysis on salaries dataset. Calculated mean, median, and performed basic data transformations on the dataset and visualized the dataset by making scatter plots and histograms. Lastly, I drew conclusions based on my findings. 
