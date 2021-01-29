@@ -19,8 +19,11 @@ Learned the fundamentals of Python, such as list, dictionary, loops, if-else sta
 ## Projects:
 In addition to multiple assignments that provide practice on core concepts, I engaged in projects that helped develop skills in crearting functions and looping through datasets. 
 - Bullet list
+
               - Nested bullet
+              
                   - Sub-nested bullet etc
+                  
           - Bullet list item 2 
 * [Assignments](https://github.com/BasiraS/data_analytics_2/tree/main/Python/Unit%202%20-%20Python%20Fundamentals/Assignments)
 * [Mini Projects](https://github.com/BasiraS/data_analytics_2/tree/main/Python/Unit%202%20-%20Python%20Fundamentals/Mini%20Project)
